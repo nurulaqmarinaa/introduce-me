@@ -1,9 +1,8 @@
 # Materi
 ## Rina
-### Microservice
+### Frontend developer
 ...
-### Micro Frontend
-...
+
 # Career Plan
 ## Rina
 ### Frontend Developer
